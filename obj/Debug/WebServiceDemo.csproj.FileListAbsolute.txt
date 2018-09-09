@@ -1,0 +1,9 @@
+D:\shivigarg\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.dll.config
+D:\shivigarg\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.dll
+D:\shivigarg\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.pdb
+D:\shivigarg\WebServiceDemo\WebServiceDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\shivigarg\WebServiceDemo\WebServiceDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\shivigarg\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.csprojResolveAssemblyReference.cache
+D:\shivigarg\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.csproj.CoreCompileInputs.cache
+D:\shivigarg\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.dll
+D:\shivigarg\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.pdb
